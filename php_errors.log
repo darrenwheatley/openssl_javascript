@@ -1,0 +1,1 @@
+[12-Nov-2015 16:03:20 country/state] PHP Warning:  openssl_pkey_get_details() expects parameter 1 to be resource, boolean given in index.php on line 12
